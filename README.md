@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hey there, I'm Emma!
 
-<!--
-**emijane/emijane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **frontend developer** who loves turning ideas into sleek, accessible, and responsive interfaces.
 
-Here are some ideas to get you started:
+### 👩‍💻 What I Do
+- 🌐 Focused on **web design** and **frontend development**
+- 📱 Exploring the world of **mobile app development**
+- 🎨 Obsessed with clean UI/UX and smooth interactions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎮 When I'm Not Coding...
+- 💎 **Diamond Support main** in *Overwatch 2* — keeping the team alive, one clutch at a time
+- 🧋 Always down for some **boba** (brown sugar ftw!)
+- 🎮 Gaming is my escape — strategy, story, or co-op, I’m there
+
+### 🛠️ Tech Stack
+- **Languages**: HTML, CSS, JavaScript, TypeScript
+- **Frameworks/Libraries**: React, Next.js, Tailwind CSS
+- **Currently Learning**: React Native & Flutter
+
+### 📫 Let’s Connect
+Feel free to reach out or collaborate on something cool!
