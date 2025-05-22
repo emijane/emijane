@@ -1,21 +1,17 @@
-# 👋 Hey there, I'm Emma!
+# hi, i’m emma ✩°｡ ⋆⸜ 🎧✮
 
-I'm a passionate **frontend developer** who loves turning ideas into sleek, accessible, and responsive interfaces.
+i’m a frontend developer who’s really into clean design, smooth interactions, and building things that just feel good to use. right now i’m focused on web development, but i’ve been getting more curious about mobile app dev too.
 
-### 👩‍💻 What I Do
-- 🌐 Focused on **web design** and **frontend development**
-- 📱 Exploring the world of **mobile app development**
-- 🎨 Obsessed with clean UI/UX and smooth interactions
+## ˚ʚ♡ɞ˚ what i’m into:
+- frontend dev (react, next.js, tailwind)
+- learning mobile (react native + flutter 👀)
+- ui/ux and web design
+- gaming + boba = my ideal weekend
+- diamond support in overwatch 2 (masters by end of year...? 😤)
 
-### 🎮 When I'm Not Coding...
-- 💎 **Diamond Support main** in *Overwatch 2* — keeping the team alive, one clutch at a time
-- 🧋 Always down for some **boba** (brown sugar ftw!)
-- 🎮 Gaming is my escape — strategy, story, or co-op, I’m there
+always down to connect, collab, or just chat about cool ideas.  
 
-### 🛠️ Tech Stack
-- **Languages**: HTML, CSS, JavaScript, TypeScript
-- **Frameworks/Libraries**: React, Next.js, Tailwind CSS
-- **Currently Learning**: React Native & Flutter
-
-### 📫 Let’s Connect
-Feel free to reach out or collaborate on something cool!
+                       ♡  ╱|、
+                          (˚ˎ 。7  
+                           |、˜〵          
+                          じしˍ,)ノ
