@@ -9,9 +9,4 @@ i’m a frontend developer who’s really into clean design, smooth interactions
 - gaming + boba = my ideal weekend
 - diamond support in overwatch 2 (masters by end of year...? 😤)
 
-always down to connect, collab, or just chat about cool ideas.  
-
-                       ♡  ╱|、
-                          (˚ˎ 。7  
-                           |、˜〵          
-                          じしˍ,)ノ
+always down to connect, collab, or just chat about cool ideas. ˆ𐃷ˆ
