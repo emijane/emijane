@@ -1,4 +1,4 @@
-# hi, i’m emma ✩°｡ ⋆⸜ 🎧✮
+# hi, i’m emma! 🎧
 
 i’m a frontend developer who’s really into clean design, smooth interactions, and building things that just feel good to use. right now i’m focused on web development, but i’ve been getting more curious about mobile app dev too.
 
